@@ -1,0 +1,11 @@
+.grid-item {
+    display: inline grid;
+    border: 2px solid black;
+    min-height: 100px;
+    min-width: 100px;
+}
+@media (min-width: 900px) {
+  .gridcontainer {
+    display: flex;
+  }
+}
