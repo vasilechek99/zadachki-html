@@ -1,0 +1,17 @@
+#avatar {
+    height: 90px;
+    width: 90px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.flex-box {
+    display: flex;
+    flex-direction: column;
+}
+div {
+    text-align: center;
+}
+
+
